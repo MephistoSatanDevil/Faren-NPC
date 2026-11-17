@@ -11,6 +11,10 @@ LANGUAGE ~English~
          ~english~
          ~Faren/translations/english/setup.tra~
 
+LANGUAGE ~Schinese~
+         ~schinese~
+         ~Faren/translations/schinese/setup.tra~
+		 
 //LANGUAGE ~English~ ~English~ ~Faren/english/Setup-Faren.tra~
 
 BEGIN @0
